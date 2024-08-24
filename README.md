@@ -21,8 +21,12 @@ Coloque o comando que a equipe deve usar pra criar um banco de dados PostgreSQL 
 * DockerHub
 
 
- Via linha de comando do ubuntu, instalei o Docker Engine  
+ Para configurar corretamente o container, acessei o DockerHub.
+ Pesquisei pela imagem do PostgreSQL. Acessei a documentação da imagem para pegar as variáves de ambiente.
 
+No terminal, coloquei o comando.
+
+'''
 
   
 
